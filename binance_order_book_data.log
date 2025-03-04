@@ -1,0 +1,326 @@
+2025-03-01 22:38:38,700 - Websocket connected
+2025-03-01 22:38:46,253 - WebSocket error: 
+2025-03-01 22:38:46,442 - tearing down on exception 
+2025-03-01 22:40:12,974 - Websocket connected
+2025-03-01 22:40:13,075 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:40:13.064715'), 'Price': '85004.00000000', 'Quantity': '3.44442000', 'Type': 'Bid'}
+2025-03-01 22:40:13,078 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:40:13.075619'), 'Price': '85004.01000000', 'Quantity': '1.93934000', 'Type': 'Ask'}
+2025-03-01 22:40:14,052 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:40:14.049579'), 'Price': '85004.00000000', 'Quantity': '0.10080000', 'Type': 'Bid'}
+2025-03-01 22:40:14,054 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:40:14.052417'), 'Price': '85004.01000000', 'Quantity': '4.36897000', 'Type': 'Ask'}
+2025-03-01 22:40:15,070 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:40:15.067917'), 'Price': '85004.00000000', 'Quantity': '0.22602000', 'Type': 'Bid'}
+2025-03-01 22:40:15,073 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:40:15.070842'), 'Price': '85004.01000000', 'Quantity': '3.75434000', 'Type': 'Ask'}
+2025-03-01 22:40:16,094 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:40:16.092391'), 'Price': '84999.57000000', 'Quantity': '0.01039000', 'Type': 'Bid'}
+2025-03-01 22:40:16,097 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:40:16.094872'), 'Price': '84999.58000000', 'Quantity': '4.95821000', 'Type': 'Ask'}
+2025-03-01 22:40:17,117 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:40:17.116044'), 'Price': '84991.78000000', 'Quantity': '0.16829000', 'Type': 'Bid'}
+2025-03-01 22:40:17,119 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:40:17.118020'), 'Price': '84991.79000000', 'Quantity': '5.03159000', 'Type': 'Ask'}
+2025-03-01 22:40:18,141 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:40:18.139371'), 'Price': '84991.78000000', 'Quantity': '3.31783000', 'Type': 'Bid'}
+2025-03-01 22:40:18,144 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:40:18.142256'), 'Price': '84991.79000000', 'Quantity': '2.64091000', 'Type': 'Ask'}
+2025-03-01 22:40:18,749 - WebSocket error: 
+2025-03-01 22:40:18,925 - tearing down on exception 
+2025-03-01 22:41:13,847 - Websocket connected
+2025-03-01 22:41:14,051 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:41:14.045496'), 'Price': '84993.52000000', 'Quantity': '6.88583000', 'Type': 'Bid'}
+2025-03-01 22:41:14,054 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:41:14.052107'), 'Price': '84993.53000000', 'Quantity': '0.02386000', 'Type': 'Ask'}
+2025-03-01 22:41:15,048 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:41:15.045183'), 'Price': '84993.52000000', 'Quantity': '6.31465000', 'Type': 'Bid'}
+2025-03-01 22:41:15,050 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:41:15.048376'), 'Price': '84993.53000000', 'Quantity': '0.84351000', 'Type': 'Ask'}
+2025-03-01 22:41:16,100 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:41:16.098276'), 'Price': '84993.52000000', 'Quantity': '6.29903000', 'Type': 'Bid'}
+2025-03-01 22:41:16,103 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:41:16.101112'), 'Price': '84993.53000000', 'Quantity': '0.02099000', 'Type': 'Ask'}
+2025-03-01 22:41:17,124 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:41:17.121807'), 'Price': '84993.52000000', 'Quantity': '6.29834000', 'Type': 'Bid'}
+2025-03-01 22:41:17,126 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:41:17.124685'), 'Price': '84993.53000000', 'Quantity': '0.84657000', 'Type': 'Ask'}
+2025-03-01 22:41:18,063 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:41:18.061036'), 'Price': '84993.52000000', 'Quantity': '3.43054000', 'Type': 'Bid'}
+2025-03-01 22:41:18,065 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:41:18.063749'), 'Price': '84993.53000000', 'Quantity': '1.66519000', 'Type': 'Ask'}
+2025-03-01 22:41:19,283 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:41:19.281139'), 'Price': '84993.52000000', 'Quantity': '0.07857000', 'Type': 'Bid'}
+2025-03-01 22:41:19,286 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:41:19.284014'), 'Price': '84993.53000000', 'Quantity': '4.33462000', 'Type': 'Ask'}
+2025-03-01 22:41:20,066 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:41:20.063894'), 'Price': '84988.74000000', 'Quantity': '0.32170000', 'Type': 'Bid'}
+2025-03-01 22:41:20,069 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:41:20.067395'), 'Price': '84988.75000000', 'Quantity': '5.16945000', 'Type': 'Ask'}
+2025-03-01 22:41:21,119 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:41:21.116794'), 'Price': '84988.74000000', 'Quantity': '2.15692000', 'Type': 'Bid'}
+2025-03-01 22:41:21,121 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:41:21.119660'), 'Price': '84988.75000000', 'Quantity': '4.86535000', 'Type': 'Ask'}
+2025-03-01 22:41:22,130 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:41:22.127913'), 'Price': '84988.74000000', 'Quantity': '4.63152000', 'Type': 'Bid'}
+2025-03-01 22:41:22,133 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:41:22.130737'), 'Price': '84988.75000000', 'Quantity': '0.59029000', 'Type': 'Ask'}
+2025-03-01 22:41:23,063 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:41:23.061025'), 'Price': '84991.84000000', 'Quantity': '8.42436000', 'Type': 'Bid'}
+2025-03-01 22:41:23,066 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:41:23.063854'), 'Price': '84991.85000000', 'Quantity': '0.18078000', 'Type': 'Ask'}
+2025-03-01 22:41:23,122 - WebSocket error: 
+2025-03-01 22:41:23,302 - tearing down on exception 
+2025-03-01 22:42:20,349 - Websocket connected
+2025-03-01 22:42:21,155 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:21.122625'), 'Price': '85011.98000000', 'Quantity': '4.86603000', 'Type': 'Bid'}
+2025-03-01 22:42:21,159 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:21.156241'), 'Price': '85011.99000000', 'Quantity': '1.69006000', 'Type': 'Ask'}
+2025-03-01 22:42:22,358 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:22.355778'), 'Price': '85011.98000000', 'Quantity': '4.43119000', 'Type': 'Bid'}
+2025-03-01 22:42:22,360 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:22.358701'), 'Price': '85011.99000000', 'Quantity': '1.68936000', 'Type': 'Ask'}
+2025-03-01 22:42:23,069 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:23.067296'), 'Price': '85011.98000000', 'Quantity': '6.74161000', 'Type': 'Bid'}
+2025-03-01 22:42:23,073 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:23.070165'), 'Price': '85011.99000000', 'Quantity': '0.02500000', 'Type': 'Ask'}
+2025-03-01 22:42:24,100 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:24.093346'), 'Price': '85012.00000000', 'Quantity': '7.06782000', 'Type': 'Bid'}
+2025-03-01 22:42:24,102 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:24.100744'), 'Price': '85012.01000000', 'Quantity': '0.04266000', 'Type': 'Ask'}
+2025-03-01 22:42:25,117 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:25.114897'), 'Price': '85012.00000000', 'Quantity': '7.11562000', 'Type': 'Bid'}
+2025-03-01 22:42:25,120 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:25.117769'), 'Price': '85012.01000000', 'Quantity': '0.04176000', 'Type': 'Ask'}
+2025-03-01 22:42:26,141 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:26.139057'), 'Price': '85012.00000000', 'Quantity': '7.11562000', 'Type': 'Bid'}
+2025-03-01 22:42:26,144 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:26.141991'), 'Price': '85012.01000000', 'Quantity': '0.04125000', 'Type': 'Ask'}
+2025-03-01 22:42:27,044 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:27.042811'), 'Price': '85012.00000000', 'Quantity': '7.09786000', 'Type': 'Bid'}
+2025-03-01 22:42:27,051 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:27.045189'), 'Price': '85012.01000000', 'Quantity': '0.03988000', 'Type': 'Ask'}
+2025-03-01 22:42:28,089 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:28.085927'), 'Price': '85018.86000000', 'Quantity': '8.22284000', 'Type': 'Bid'}
+2025-03-01 22:42:28,091 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:28.089749'), 'Price': '85018.87000000', 'Quantity': '0.60916000', 'Type': 'Ask'}
+2025-03-01 22:42:29,111 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:29.109115'), 'Price': '85018.86000000', 'Quantity': '8.01415000', 'Type': 'Bid'}
+2025-03-01 22:42:29,114 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:29.112050'), 'Price': '85018.87000000', 'Quantity': '0.04350000', 'Type': 'Ask'}
+2025-03-01 22:42:30,135 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:30.132532'), 'Price': '85028.51000000', 'Quantity': '6.29947000', 'Type': 'Bid'}
+2025-03-01 22:42:30,137 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:30.135419'), 'Price': '85028.52000000', 'Quantity': '0.00662000', 'Type': 'Ask'}
+2025-03-01 22:42:31,160 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:31.157458'), 'Price': '85030.48000000', 'Quantity': '6.94899000', 'Type': 'Bid'}
+2025-03-01 22:42:31,162 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:31.160371'), 'Price': '85030.49000000', 'Quantity': '0.02477000', 'Type': 'Ask'}
+2025-03-01 22:42:32,081 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:32.078717'), 'Price': '85032.09000000', 'Quantity': '6.46797000', 'Type': 'Bid'}
+2025-03-01 22:42:32,084 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:32.081622'), 'Price': '85032.10000000', 'Quantity': '0.00157000', 'Type': 'Ask'}
+2025-03-01 22:42:33,105 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:33.102772'), 'Price': '85032.09000000', 'Quantity': '7.09350000', 'Type': 'Bid'}
+2025-03-01 22:42:33,108 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:33.105833'), 'Price': '85032.10000000', 'Quantity': '0.05562000', 'Type': 'Ask'}
+2025-03-01 22:42:34,129 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:34.126294'), 'Price': '85033.82000000', 'Quantity': '6.93692000', 'Type': 'Bid'}
+2025-03-01 22:42:34,131 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:34.129885'), 'Price': '85033.83000000', 'Quantity': '0.76191000', 'Type': 'Ask'}
+2025-03-01 22:42:35,152 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:35.151113'), 'Price': '85033.82000000', 'Quantity': '3.21088000', 'Type': 'Bid'}
+2025-03-01 22:42:35,153 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:35.152789'), 'Price': '85033.83000000', 'Quantity': '1.89790000', 'Type': 'Ask'}
+2025-03-01 22:42:36,075 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:36.073521'), 'Price': '85033.82000000', 'Quantity': '3.98125000', 'Type': 'Bid'}
+2025-03-01 22:42:36,076 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:36.075237'), 'Price': '85033.83000000', 'Quantity': '1.60337000', 'Type': 'Ask'}
+2025-03-01 22:42:37,098 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:37.096303'), 'Price': '85033.82000000', 'Quantity': '4.33419000', 'Type': 'Bid'}
+2025-03-01 22:42:37,101 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:37.099191'), 'Price': '85033.83000000', 'Quantity': '1.08216000', 'Type': 'Ask'}
+2025-03-01 22:42:38,534 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:38.532048'), 'Price': '85033.82000000', 'Quantity': '4.30349000', 'Type': 'Bid'}
+2025-03-01 22:42:38,535 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:38.534361'), 'Price': '85033.83000000', 'Quantity': '1.67398000', 'Type': 'Ask'}
+2025-03-01 22:42:39,058 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:39.056326'), 'Price': '85033.82000000', 'Quantity': '3.14247000', 'Type': 'Bid'}
+2025-03-01 22:42:39,061 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:39.059291'), 'Price': '85033.83000000', 'Quantity': '1.72411000', 'Type': 'Ask'}
+2025-03-01 22:42:40,070 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:40.068738'), 'Price': '85033.82000000', 'Quantity': '0.07753000', 'Type': 'Bid'}
+2025-03-01 22:42:40,073 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:40.071377'), 'Price': '85033.83000000', 'Quantity': '4.30041000', 'Type': 'Ask'}
+2025-03-01 22:42:41,092 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:41.090137'), 'Price': '85027.00000000', 'Quantity': '3.70696000', 'Type': 'Bid'}
+2025-03-01 22:42:41,095 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:41.093084'), 'Price': '85027.01000000', 'Quantity': '1.36492000', 'Type': 'Ask'}
+2025-03-01 22:42:42,116 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:42.115036'), 'Price': '85027.00000000', 'Quantity': '3.75548000', 'Type': 'Bid'}
+2025-03-01 22:42:42,118 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:42.116711'), 'Price': '85027.01000000', 'Quantity': '0.97744000', 'Type': 'Ask'}
+2025-03-01 22:42:43,140 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:43.137769'), 'Price': '85027.00000000', 'Quantity': '4.96678000', 'Type': 'Bid'}
+2025-03-01 22:42:43,142 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:43.140671'), 'Price': '85027.01000000', 'Quantity': '0.05774000', 'Type': 'Ask'}
+2025-03-01 22:42:44,062 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:42:44.060462'), 'Price': '85027.00000000', 'Quantity': '5.86553000', 'Type': 'Bid'}
+2025-03-01 22:42:44,065 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:42:44.063315'), 'Price': '85027.01000000', 'Quantity': '0.05577000', 'Type': 'Ask'}
+2025-03-01 22:42:44,098 - WebSocket error: 
+2025-03-01 22:42:44,318 - tearing down on exception 
+2025-03-01 22:51:11,806 - Websocket connected
+2025-03-01 22:51:12,018 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:51:12.010384'), 'Price': '85102.00000000', 'Quantity': '1.09029000', 'Type': 'Bid'}
+2025-03-01 22:51:12,022 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:51:12.019292'), 'Price': '85102.01000000', 'Quantity': '4.30079000', 'Type': 'Ask'}
+2025-03-01 22:51:13,064 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:51:13.061935'), 'Price': '85102.00000000', 'Quantity': '1.74853000', 'Type': 'Bid'}
+2025-03-01 22:51:13,069 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:51:13.065413'), 'Price': '85102.01000000', 'Quantity': '3.42419000', 'Type': 'Ask'}
+2025-03-01 22:51:14,087 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:51:14.084661'), 'Price': '85102.36000000', 'Quantity': '4.95486000', 'Type': 'Bid'}
+2025-03-01 22:51:14,093 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:51:14.089781'), 'Price': '85102.37000000', 'Quantity': '0.97661000', 'Type': 'Ask'}
+2025-03-01 22:51:15,112 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:51:15.110658'), 'Price': '85103.65000000', 'Quantity': '5.28687000', 'Type': 'Bid'}
+2025-03-01 22:51:15,113 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:51:15.112424'), 'Price': '85103.66000000', 'Quantity': '0.00269000', 'Type': 'Ask'}
+2025-03-01 22:51:16,033 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:51:16.031832'), 'Price': '85109.55000000', 'Quantity': '4.36881000', 'Type': 'Bid'}
+2025-03-01 22:51:16,035 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:51:16.033970'), 'Price': '85109.56000000', 'Quantity': '0.80718000', 'Type': 'Ask'}
+2025-03-01 22:51:17,007 - Bid Data: {'Timestamp': Timestamp('2025-03-01 22:51:17.005379'), 'Price': '85109.55000000', 'Quantity': '2.89317000', 'Type': 'Bid'}
+2025-03-01 22:51:17,009 - Ask Data: {'Timestamp': Timestamp('2025-03-01 22:51:17.007569'), 'Price': '85109.56000000', 'Quantity': '1.95641000', 'Type': 'Ask'}
+2025-03-01 22:51:17,525 - WebSocket error: 
+2025-03-01 22:51:17,763 - tearing down on exception 
+2025-03-01 23:24:39,189 - Websocket connected
+2025-03-01 23:24:39,951 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:24:39.948117'), 'Price': '85254.71000000', 'Quantity': '1.29585000', 'Type': 'Bid'}
+2025-03-01 23:24:39,954 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:24:39.951485'), 'Price': '85254.72000000', 'Quantity': '3.78882000', 'Type': 'Ask'}
+2025-03-01 23:24:40,981 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:24:40.972772'), 'Price': '85254.71000000', 'Quantity': '5.40809000', 'Type': 'Bid'}
+2025-03-01 23:24:40,984 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:24:40.981848'), 'Price': '85254.72000000', 'Quantity': '1.16348000', 'Type': 'Ask'}
+2025-03-01 23:24:41,998 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:24:41.995892'), 'Price': '85254.71000000', 'Quantity': '4.89591000', 'Type': 'Bid'}
+2025-03-01 23:24:42,001 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:24:41.998998'), 'Price': '85254.72000000', 'Quantity': '1.27261000', 'Type': 'Ask'}
+2025-03-01 23:24:43,022 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:24:43.019928'), 'Price': '85254.71000000', 'Quantity': '4.91290000', 'Type': 'Bid'}
+2025-03-01 23:24:43,025 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:24:43.022939'), 'Price': '85254.72000000', 'Quantity': '1.42102000', 'Type': 'Ask'}
+2025-03-01 23:24:43,944 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:24:43.941839'), 'Price': '85254.71000000', 'Quantity': '1.15634000', 'Type': 'Bid'}
+2025-03-01 23:24:43,949 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:24:43.944760'), 'Price': '85254.72000000', 'Quantity': '4.87327000', 'Type': 'Ask'}
+2025-03-01 23:24:44,942 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:24:44.940209'), 'Price': '85254.71000000', 'Quantity': '0.17323000', 'Type': 'Bid'}
+2025-03-01 23:24:44,945 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:24:44.943103'), 'Price': '85254.72000000', 'Quantity': '4.67613000', 'Type': 'Ask'}
+2025-03-01 23:24:45,992 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:24:45.989000'), 'Price': '85254.71000000', 'Quantity': '2.80095000', 'Type': 'Bid'}
+2025-03-01 23:24:45,994 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:24:45.992385'), 'Price': '85254.72000000', 'Quantity': '2.22561000', 'Type': 'Ask'}
+2025-03-01 23:24:47,015 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:24:47.013022'), 'Price': '85254.71000000', 'Quantity': '2.89039000', 'Type': 'Bid'}
+2025-03-01 23:24:47,018 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:24:47.015977'), 'Price': '85254.72000000', 'Quantity': '1.49550000', 'Type': 'Ask'}
+2025-03-01 23:24:48,040 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:24:48.037688'), 'Price': '85254.71000000', 'Quantity': '1.92853000', 'Type': 'Bid'}
+2025-03-01 23:24:48,042 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:24:48.040614'), 'Price': '85254.72000000', 'Quantity': '3.48720000', 'Type': 'Ask'}
+2025-03-01 23:24:48,961 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:24:48.959208'), 'Price': '85254.71000000', 'Quantity': '2.01450000', 'Type': 'Bid'}
+2025-03-01 23:24:48,964 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:24:48.962124'), 'Price': '85254.72000000', 'Quantity': '2.35157000', 'Type': 'Ask'}
+2025-03-01 23:24:49,339 - WebSocket error: 
+2025-03-01 23:24:49,560 - tearing down on exception 
+2025-03-01 23:35:32,826 - Websocket connected
+2025-03-01 23:35:32,974 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:35:32.971808'), 'Price': '85207.54000000', 'Quantity': '0.07751000', 'Type': 'Bid'}
+2025-03-01 23:35:32,982 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:35:32.975070'), 'Price': '85207.55000000', 'Quantity': '4.52879000', 'Type': 'Ask'}
+2025-03-01 23:35:34,031 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:35:34.026561'), 'Price': '85202.00000000', 'Quantity': '0.02725000', 'Type': 'Bid'}
+2025-03-01 23:35:34,035 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:35:34.032770'), 'Price': '85202.01000000', 'Quantity': '6.36094000', 'Type': 'Ask'}
+2025-03-01 23:35:35,054 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:35:35.052044'), 'Price': '85201.99000000', 'Quantity': '8.25899000', 'Type': 'Bid'}
+2025-03-01 23:35:35,056 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:35:35.055246'), 'Price': '85202.00000000', 'Quantity': '0.13996000', 'Type': 'Ask'}
+2025-03-01 23:35:36,078 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:35:36.075221'), 'Price': '85201.99000000', 'Quantity': '8.47886000', 'Type': 'Bid'}
+2025-03-01 23:35:36,084 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:35:36.078738'), 'Price': '85202.00000000', 'Quantity': '0.14123000', 'Type': 'Ask'}
+2025-03-01 23:35:37,002 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:35:36.998786'), 'Price': '85201.99000000', 'Quantity': '6.11906000', 'Type': 'Bid'}
+2025-03-01 23:35:37,004 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:35:37.002415'), 'Price': '85202.00000000', 'Quantity': '1.91034000', 'Type': 'Ask'}
+2025-03-01 23:35:38,022 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:35:38.020219'), 'Price': '85201.99000000', 'Quantity': '5.77440000', 'Type': 'Bid'}
+2025-03-01 23:35:38,025 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:35:38.023329'), 'Price': '85202.00000000', 'Quantity': '3.17140000', 'Type': 'Ask'}
+2025-03-01 23:35:39,056 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:35:39.048064'), 'Price': '85201.99000000', 'Quantity': '6.40591000', 'Type': 'Bid'}
+2025-03-01 23:35:39,058 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:35:39.056927'), 'Price': '85202.00000000', 'Quantity': '1.94952000', 'Type': 'Ask'}
+2025-03-01 23:35:40,072 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:35:40.069364'), 'Price': '85201.99000000', 'Quantity': '5.71402000', 'Type': 'Bid'}
+2025-03-01 23:35:40,074 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:35:40.072352'), 'Price': '85202.00000000', 'Quantity': '1.94953000', 'Type': 'Ask'}
+2025-03-01 23:35:40,992 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:35:40.990067'), 'Price': '85201.99000000', 'Quantity': '5.66714000', 'Type': 'Bid'}
+2025-03-01 23:35:40,997 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:35:40.993065'), 'Price': '85202.00000000', 'Quantity': '1.94974000', 'Type': 'Ask'}
+2025-03-01 23:35:41,653 - WebSocket error: 
+2025-03-01 23:35:41,887 - tearing down on exception 
+2025-03-01 23:44:54,469 - Websocket connected
+2025-03-01 23:44:54,979 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:44:54.973109'), 'Price': '85150.94000000', 'Quantity': '0.58741000', 'Type': 'Bid'}
+2025-03-01 23:44:54,982 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:44:54.979840'), 'Price': '85150.95000000', 'Quantity': '7.95088000', 'Type': 'Ask'}
+2025-03-01 23:44:55,999 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:44:55.997062'), 'Price': '85150.94000000', 'Quantity': '0.56356000', 'Type': 'Bid'}
+2025-03-01 23:44:56,002 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:44:56'), 'Price': '85150.95000000', 'Quantity': '8.10169000', 'Type': 'Ask'}
+2025-03-01 23:44:57,022 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:44:57.021024'), 'Price': '85150.94000000', 'Quantity': '0.56372000', 'Type': 'Bid'}
+2025-03-01 23:44:57,024 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:44:57.022755'), 'Price': '85150.95000000', 'Quantity': '8.10197000', 'Type': 'Ask'}
+2025-03-01 23:44:58,047 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:44:58.044916'), 'Price': '85150.94000000', 'Quantity': '0.42010000', 'Type': 'Bid'}
+2025-03-01 23:44:58,050 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:44:58.047818'), 'Price': '85150.95000000', 'Quantity': '8.11465000', 'Type': 'Ask'}
+2025-03-01 23:44:59,071 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:44:59.069057'), 'Price': '85140.02000000', 'Quantity': '2.50453000', 'Type': 'Bid'}
+2025-03-01 23:44:59,073 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:44:59.071727'), 'Price': '85140.03000000', 'Quantity': '4.25196000', 'Type': 'Ask'}
+2025-03-01 23:44:59,993 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:44:59.990833'), 'Price': '85140.02000000', 'Quantity': '0.21232000', 'Type': 'Bid'}
+2025-03-01 23:44:59,995 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:44:59.993675'), 'Price': '85140.03000000', 'Quantity': '4.58341000', 'Type': 'Ask'}
+2025-03-01 23:45:00,947 - WebSocket error: 
+2025-03-01 23:45:01,157 - tearing down on exception 
+2025-03-01 23:46:32,017 - Websocket connected
+2025-03-01 23:46:32,972 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:46:32.969582'), 'Price': '85159.99000000', 'Quantity': '8.23782000', 'Type': 'Bid'}
+2025-03-01 23:46:32,975 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:46:32.972933'), 'Price': '85160.00000000', 'Quantity': '1.84642000', 'Type': 'Ask'}
+2025-03-01 23:46:34,005 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:46:34.002763'), 'Price': '85159.99000000', 'Quantity': '9.33947000', 'Type': 'Bid'}
+2025-03-01 23:46:34,007 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:46:34.005379'), 'Price': '85160.00000000', 'Quantity': '0.02367000', 'Type': 'Ask'}
+2025-03-01 23:46:35,019 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:46:35.017341'), 'Price': '85159.99000000', 'Quantity': '10.06538000', 'Type': 'Bid'}
+2025-03-01 23:46:35,020 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:46:35.019304'), 'Price': '85160.00000000', 'Quantity': '0.02318000', 'Type': 'Ask'}
+2025-03-01 23:46:36,046 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:46:36.042509'), 'Price': '85176.60000000', 'Quantity': '6.81058000', 'Type': 'Bid'}
+2025-03-01 23:46:36,049 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:46:36.046890'), 'Price': '85176.61000000', 'Quantity': '0.95949000', 'Type': 'Ask'}
+2025-03-01 23:46:37,071 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:46:37.067856'), 'Price': '85176.60000000', 'Quantity': '7.11762000', 'Type': 'Bid'}
+2025-03-01 23:46:37,073 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:46:37.072123'), 'Price': '85176.61000000', 'Quantity': '1.06457000', 'Type': 'Ask'}
+2025-03-01 23:46:37,989 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:46:37.987361'), 'Price': '85176.60000000', 'Quantity': '7.14968000', 'Type': 'Bid'}
+2025-03-01 23:46:37,990 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:46:37.989542'), 'Price': '85176.61000000', 'Quantity': '1.76861000', 'Type': 'Ask'}
+2025-03-01 23:46:39,013 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:46:39.011003'), 'Price': '85176.60000000', 'Quantity': '7.13204000', 'Type': 'Bid'}
+2025-03-01 23:46:39,016 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:46:39.014008'), 'Price': '85176.61000000', 'Quantity': '2.05293000', 'Type': 'Ask'}
+2025-03-01 23:46:39,781 - WebSocket error: 
+2025-03-01 23:46:40,011 - tearing down on exception 
+2025-03-01 23:50:32,374 - Websocket connected
+2025-03-01 23:50:33,050 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:50:33.048028'), 'Price': '85075.47000000', 'Quantity': '0.88228000', 'Type': 'Bid'}
+2025-03-01 23:50:33,059 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:50:33.051318'), 'Price': '85075.48000000', 'Quantity': '3.57057000', 'Type': 'Ask'}
+2025-03-01 23:50:34,076 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:50:34.073444'), 'Price': '85075.47000000', 'Quantity': '2.83268000', 'Type': 'Bid'}
+2025-03-01 23:50:34,078 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:50:34.076492'), 'Price': '85075.48000000', 'Quantity': '3.77951000', 'Type': 'Ask'}
+2025-03-01 23:50:35,099 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:50:35.096736'), 'Price': '85080.57000000', 'Quantity': '8.59268000', 'Type': 'Bid'}
+2025-03-01 23:50:35,106 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:50:35.099725'), 'Price': '85080.58000000', 'Quantity': '1.01038000', 'Type': 'Ask'}
+2025-03-01 23:50:36,014 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:50:36.011879'), 'Price': '85081.77000000', 'Quantity': '9.33055000', 'Type': 'Bid'}
+2025-03-01 23:50:36,017 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:50:36.015072'), 'Price': '85081.78000000', 'Quantity': '1.16922000', 'Type': 'Ask'}
+2025-03-01 23:50:37,014 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:50:37.011454'), 'Price': '85085.98000000', 'Quantity': '5.33481000', 'Type': 'Bid'}
+2025-03-01 23:50:37,017 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:50:37.014447'), 'Price': '85085.99000000', 'Quantity': '2.50745000', 'Type': 'Ask'}
+2025-03-01 23:50:38,023 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:50:38.018040'), 'Price': '85087.46000000', 'Quantity': '9.21010000', 'Type': 'Bid'}
+2025-03-01 23:50:38,027 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:50:38.024072'), 'Price': '85087.47000000', 'Quantity': '1.00703000', 'Type': 'Ask'}
+2025-03-01 23:50:38,690 - WebSocket error: 
+2025-03-01 23:50:38,905 - tearing down on exception 
+2025-03-01 23:51:31,534 - Websocket connected
+2025-03-01 23:51:32,033 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:51:32.031206'), 'Price': '85108.54000000', 'Quantity': '8.50952000', 'Type': 'Bid'}
+2025-03-01 23:51:32,035 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:51:32.034062'), 'Price': '85108.55000000', 'Quantity': '0.00145000', 'Type': 'Ask'}
+2025-03-01 23:51:33,056 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:51:33.053573'), 'Price': '85114.75000000', 'Quantity': '8.62650000', 'Type': 'Bid'}
+2025-03-01 23:51:33,063 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:51:33.056812'), 'Price': '85114.76000000', 'Quantity': '0.01662000', 'Type': 'Ask'}
+2025-03-01 23:51:34,081 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:51:34.079227'), 'Price': '85118.69000000', 'Quantity': '8.68971000', 'Type': 'Bid'}
+2025-03-01 23:51:34,084 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:51:34.082304'), 'Price': '85118.70000000', 'Quantity': '0.96655000', 'Type': 'Ask'}
+2025-03-01 23:51:35,103 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:51:35.101809'), 'Price': '85118.69000000', 'Quantity': '7.95484000', 'Type': 'Bid'}
+2025-03-01 23:51:35,104 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:51:35.103398'), 'Price': '85118.70000000', 'Quantity': '1.90400000', 'Type': 'Ask'}
+2025-03-01 23:51:36,030 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:51:36.026145'), 'Price': '85118.69000000', 'Quantity': '0.78744000', 'Type': 'Bid'}
+2025-03-01 23:51:36,032 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:51:36.030661'), 'Price': '85118.70000000', 'Quantity': '4.26891000', 'Type': 'Ask'}
+2025-03-01 23:51:37,051 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:51:37.048888'), 'Price': '85118.69000000', 'Quantity': '1.45237000', 'Type': 'Bid'}
+2025-03-01 23:51:37,053 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:51:37.051884'), 'Price': '85118.70000000', 'Quantity': '4.28570000', 'Type': 'Ask'}
+2025-03-01 23:51:38,081 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:51:38.072417'), 'Price': '85112.90000000', 'Quantity': '3.49053000', 'Type': 'Bid'}
+2025-03-01 23:51:38,083 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:51:38.081872'), 'Price': '85112.91000000', 'Quantity': '5.82341000', 'Type': 'Ask'}
+2025-03-01 23:51:39,102 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:51:39.100739'), 'Price': '85112.90000000', 'Quantity': '3.68422000', 'Type': 'Bid'}
+2025-03-01 23:51:39,104 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:51:39.102792'), 'Price': '85112.91000000', 'Quantity': '3.39739000', 'Type': 'Ask'}
+2025-03-01 23:51:40,122 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:51:40.119259'), 'Price': '85112.90000000', 'Quantity': '3.53679000', 'Type': 'Bid'}
+2025-03-01 23:51:40,133 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:51:40.123536'), 'Price': '85112.91000000', 'Quantity': '3.54279000', 'Type': 'Ask'}
+2025-03-01 23:51:40,652 - WebSocket error: 
+2025-03-01 23:51:40,884 - tearing down on exception 
+2025-03-01 23:52:43,469 - Websocket connected
+2025-03-01 23:52:44,024 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:52:44.019079'), 'Price': '85175.12000000', 'Quantity': '5.65455000', 'Type': 'Bid'}
+2025-03-01 23:52:44,027 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:52:44.024801'), 'Price': '85175.13000000', 'Quantity': '1.99310000', 'Type': 'Ask'}
+2025-03-01 23:52:45,043 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:52:45.041123'), 'Price': '85175.12000000', 'Quantity': '0.02545000', 'Type': 'Bid'}
+2025-03-01 23:52:45,046 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:52:45.044006'), 'Price': '85175.13000000', 'Quantity': '6.15143000', 'Type': 'Ask'}
+2025-03-01 23:52:46,074 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:52:46.072919'), 'Price': '85175.12000000', 'Quantity': '0.04698000', 'Type': 'Bid'}
+2025-03-01 23:52:46,076 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:52:46.075161'), 'Price': '85175.13000000', 'Quantity': '6.74098000', 'Type': 'Ask'}
+2025-03-01 23:52:47,092 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:52:47.089902'), 'Price': '85168.94000000', 'Quantity': '1.39289000', 'Type': 'Bid'}
+2025-03-01 23:52:47,095 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:52:47.092812'), 'Price': '85168.95000000', 'Quantity': '7.16117000', 'Type': 'Ask'}
+2025-03-01 23:52:48,012 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:52:48.010239'), 'Price': '85168.94000000', 'Quantity': '3.72484000', 'Type': 'Bid'}
+2025-03-01 23:52:48,019 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:52:48.013145'), 'Price': '85168.95000000', 'Quantity': '2.54859000', 'Type': 'Ask'}
+2025-03-01 23:52:49,038 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:52:49.036111'), 'Price': '85168.94000000', 'Quantity': '4.02563000', 'Type': 'Bid'}
+2025-03-01 23:52:49,040 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:52:49.038999'), 'Price': '85168.95000000', 'Quantity': '2.52635000', 'Type': 'Ask'}
+2025-03-01 23:52:50,062 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:52:50.060358'), 'Price': '85168.94000000', 'Quantity': '3.41644000', 'Type': 'Bid'}
+2025-03-01 23:52:50,063 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:52:50.062423'), 'Price': '85168.95000000', 'Quantity': '2.87196000', 'Type': 'Ask'}
+2025-03-01 23:52:51,087 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:52:51.084790'), 'Price': '85168.94000000', 'Quantity': '3.39584000', 'Type': 'Bid'}
+2025-03-01 23:52:51,092 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:52:51.087952'), 'Price': '85168.95000000', 'Quantity': '2.82490000', 'Type': 'Ask'}
+2025-03-01 23:52:52,109 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:52:52.106962'), 'Price': '85168.94000000', 'Quantity': '3.24966000', 'Type': 'Bid'}
+2025-03-01 23:52:52,112 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:52:52.109839'), 'Price': '85168.95000000', 'Quantity': '3.50008000', 'Type': 'Ask'}
+2025-03-01 23:52:53,030 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:52:53.027763'), 'Price': '85168.94000000', 'Quantity': '4.69806000', 'Type': 'Bid'}
+2025-03-01 23:52:53,038 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:52:53.030659'), 'Price': '85168.95000000', 'Quantity': '2.89436000', 'Type': 'Ask'}
+2025-03-01 23:52:54,055 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:52:54.052865'), 'Price': '85168.94000000', 'Quantity': '4.67977000', 'Type': 'Bid'}
+2025-03-01 23:52:54,057 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:52:54.055779'), 'Price': '85168.95000000', 'Quantity': '2.85837000', 'Type': 'Ask'}
+2025-03-01 23:52:55,077 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:52:55.075822'), 'Price': '85168.94000000', 'Quantity': '3.98687000', 'Type': 'Bid'}
+2025-03-01 23:52:55,079 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:52:55.078143'), 'Price': '85168.95000000', 'Quantity': '3.03884000', 'Type': 'Ask'}
+2025-03-01 23:52:56,106 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:52:56.102115'), 'Price': '85168.94000000', 'Quantity': '4.21242000', 'Type': 'Bid'}
+2025-03-01 23:52:56,108 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:52:56.106765'), 'Price': '85168.95000000', 'Quantity': '3.06501000', 'Type': 'Ask'}
+2025-03-01 23:52:57,024 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:52:57.021881'), 'Price': '85168.94000000', 'Quantity': '5.21257000', 'Type': 'Bid'}
+2025-03-01 23:52:57,026 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:52:57.024779'), 'Price': '85168.95000000', 'Quantity': '2.94206000', 'Type': 'Ask'}
+2025-03-01 23:52:58,061 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:52:58.048478'), 'Price': '85168.94000000', 'Quantity': '5.21257000', 'Type': 'Bid'}
+2025-03-01 23:52:58,062 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:52:58.061385'), 'Price': '85168.95000000', 'Quantity': '1.83505000', 'Type': 'Ask'}
+2025-03-01 23:52:59,078 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:52:59.075393'), 'Price': '85168.94000000', 'Quantity': '5.18745000', 'Type': 'Bid'}
+2025-03-01 23:52:59,080 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:52:59.078680'), 'Price': '85168.95000000', 'Quantity': '1.83406000', 'Type': 'Ask'}
+2025-03-01 23:53:00,104 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:53:00.098677'), 'Price': '85168.94000000', 'Quantity': '4.00899000', 'Type': 'Bid'}
+2025-03-01 23:53:00,108 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:53:00.104789'), 'Price': '85168.95000000', 'Quantity': '3.17404000', 'Type': 'Ask'}
+2025-03-01 23:53:00,697 - WebSocket error: 
+2025-03-01 23:53:00,919 - tearing down on exception 
+2025-03-01 23:54:29,196 - Websocket connected
+2025-03-01 23:54:30,113 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:54:30.104449'), 'Price': '85081.36000000', 'Quantity': '9.04674000', 'Type': 'Bid'}
+2025-03-01 23:54:30,115 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:54:30.113736'), 'Price': '85081.37000000', 'Quantity': '1.22732000', 'Type': 'Ask'}
+2025-03-01 23:54:31,030 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:54:31.027838'), 'Price': '85081.36000000', 'Quantity': '8.14567000', 'Type': 'Bid'}
+2025-03-01 23:54:31,033 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:54:31.031699'), 'Price': '85081.37000000', 'Quantity': '1.22749000', 'Type': 'Ask'}
+2025-03-01 23:54:32,051 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:54:32.048962'), 'Price': '85081.36000000', 'Quantity': '8.13886000', 'Type': 'Bid'}
+2025-03-01 23:54:32,054 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:54:32.051933'), 'Price': '85081.37000000', 'Quantity': '1.22741000', 'Type': 'Ask'}
+2025-03-01 23:54:33,080 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:54:33.073030'), 'Price': '85081.36000000', 'Quantity': '2.28003000', 'Type': 'Bid'}
+2025-03-01 23:54:33,082 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:54:33.080545'), 'Price': '85081.37000000', 'Quantity': '3.05107000', 'Type': 'Ask'}
+2025-03-01 23:54:34,099 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:54:34.097643'), 'Price': '85081.36000000', 'Quantity': '4.18016000', 'Type': 'Bid'}
+2025-03-01 23:54:34,101 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:54:34.099738'), 'Price': '85081.37000000', 'Quantity': '1.20490000', 'Type': 'Ask'}
+2025-03-01 23:54:34,836 - WebSocket error: 
+2025-03-01 23:54:35,002 - tearing down on exception 
+2025-03-01 23:55:58,847 - Websocket connected
+2025-03-01 23:55:59,015 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:55:59.006424'), 'Price': '85127.81000000', 'Quantity': '1.56392000', 'Type': 'Bid'}
+2025-03-01 23:55:59,021 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:55:59.015321'), 'Price': '85127.82000000', 'Quantity': '4.13114000', 'Type': 'Ask'}
+2025-03-01 23:56:00,115 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:56:00.112535'), 'Price': '85127.81000000', 'Quantity': '4.17174000', 'Type': 'Bid'}
+2025-03-01 23:56:00,121 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:56:00.115445'), 'Price': '85127.82000000', 'Quantity': '2.61649000', 'Type': 'Ask'}
+2025-03-01 23:56:01,037 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:56:01.035987'), 'Price': '85127.81000000', 'Quantity': '1.61848000', 'Type': 'Bid'}
+2025-03-01 23:56:01,038 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:56:01.037540'), 'Price': '85127.82000000', 'Quantity': '3.50902000', 'Type': 'Ask'}
+2025-03-01 23:56:02,059 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:56:02.057387'), 'Price': '85127.81000000', 'Quantity': '3.73032000', 'Type': 'Bid'}
+2025-03-01 23:56:02,061 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:56:02.059489'), 'Price': '85127.82000000', 'Quantity': '2.68663000', 'Type': 'Ask'}
+2025-03-01 23:56:03,086 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:56:03.084194'), 'Price': '85127.81000000', 'Quantity': '3.08636000', 'Type': 'Bid'}
+2025-03-01 23:56:03,088 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:56:03.086905'), 'Price': '85127.82000000', 'Quantity': '2.63691000', 'Type': 'Ask'}
+2025-03-01 23:56:03,112 - WebSocket error: 
+2025-03-01 23:56:03,286 - tearing down on exception 
+2025-03-01 23:57:48,199 - Websocket connected
+2025-03-01 23:57:49,072 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:57:49.068491'), 'Price': '85142.85000000', 'Quantity': '7.54218000', 'Type': 'Bid'}
+2025-03-01 23:57:49,074 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:57:49.072875'), 'Price': '85142.86000000', 'Quantity': '0.07372000', 'Type': 'Ask'}
+2025-03-01 23:57:50,093 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:57:50.090698'), 'Price': '85142.85000000', 'Quantity': '7.53278000', 'Type': 'Bid'}
+2025-03-01 23:57:50,101 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:57:50.093296'), 'Price': '85142.86000000', 'Quantity': '0.07312000', 'Type': 'Ask'}
+2025-03-01 23:57:51,016 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:57:51.013592'), 'Price': '85149.99000000', 'Quantity': '1.14081000', 'Type': 'Bid'}
+2025-03-01 23:57:51,018 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:57:51.016567'), 'Price': '85150.00000000', 'Quantity': '5.08092000', 'Type': 'Ask'}
+2025-03-01 23:57:52,039 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:57:52.037155'), 'Price': '85142.85000000', 'Quantity': '0.29919000', 'Type': 'Bid'}
+2025-03-01 23:57:52,042 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:57:52.040055'), 'Price': '85142.86000000', 'Quantity': '8.42620000', 'Type': 'Ask'}
+2025-03-01 23:57:53,070 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:57:53.059894'), 'Price': '85142.85000000', 'Quantity': '0.32476000', 'Type': 'Bid'}
+2025-03-01 23:57:53,072 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:57:53.070609'), 'Price': '85142.86000000', 'Quantity': '8.42949000', 'Type': 'Ask'}
+2025-03-01 23:57:53,765 - WebSocket error: 
+2025-03-01 23:57:59,650 - Websocket connected
+2025-03-01 23:58:00,003 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:58:00.000469'), 'Price': '85142.85000000', 'Quantity': '0.20710000', 'Type': 'Bid'}
+2025-03-01 23:58:00,005 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:58:00.003589'), 'Price': '85142.86000000', 'Quantity': '8.29705000', 'Type': 'Ask'}
+2025-03-01 23:58:01,055 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:58:01.052936'), 'Price': '85142.85000000', 'Quantity': '1.30078000', 'Type': 'Bid'}
+2025-03-01 23:58:01,056 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:58:01.055644'), 'Price': '85142.86000000', 'Quantity': '8.13851000', 'Type': 'Ask'}
+2025-03-01 23:58:02,074 - Bid Data: {'Timestamp': Timestamp('2025-03-01 23:58:02.072166'), 'Price': '85142.85000000', 'Quantity': '3.47046000', 'Type': 'Bid'}
+2025-03-01 23:58:02,077 - Ask Data: {'Timestamp': Timestamp('2025-03-01 23:58:02.075072'), 'Price': '85142.86000000', 'Quantity': '5.12882000', 'Type': 'Ask'}
+2025-03-01 23:58:02,274 - WebSocket error: 
+2025-03-01 23:58:04,006 - tearing down on exception 
+2025-03-01 23:58:04,009 - tearing down on exception 
+2025-03-02 11:54:08,128 - Websocket connected
+2025-03-02 11:54:08,947 - Bid Data: {'Timestamp': Timestamp('2025-03-02 11:54:08.934449'), 'Price': '86128.19000000', 'Quantity': '3.05184000', 'Type': 'Bid'}
+2025-03-02 11:54:08,950 - Ask Data: {'Timestamp': Timestamp('2025-03-02 11:54:08.947871'), 'Price': '86128.20000000', 'Quantity': '1.42403000', 'Type': 'Ask'}
+2025-03-02 11:54:09,959 - Bid Data: {'Timestamp': Timestamp('2025-03-02 11:54:09.957432'), 'Price': '86134.61000000', 'Quantity': '4.48262000', 'Type': 'Bid'}
+2025-03-02 11:54:09,962 - Ask Data: {'Timestamp': Timestamp('2025-03-02 11:54:09.960317'), 'Price': '86134.62000000', 'Quantity': '0.00140000', 'Type': 'Ask'}
+2025-03-02 11:54:10,983 - Bid Data: {'Timestamp': Timestamp('2025-03-02 11:54:10.980600'), 'Price': '86134.61000000', 'Quantity': '4.48318000', 'Type': 'Bid'}
+2025-03-02 11:54:10,987 - Ask Data: {'Timestamp': Timestamp('2025-03-02 11:54:10.983485'), 'Price': '86134.62000000', 'Quantity': '0.00175000', 'Type': 'Ask'}
+2025-03-02 11:54:11,906 - Bid Data: {'Timestamp': Timestamp('2025-03-02 11:54:11.902697'), 'Price': '86134.61000000', 'Quantity': '1.13854000', 'Type': 'Bid'}
+2025-03-02 11:54:11,910 - Ask Data: {'Timestamp': Timestamp('2025-03-02 11:54:11.906939'), 'Price': '86134.62000000', 'Quantity': '3.74645000', 'Type': 'Ask'}
+2025-03-02 11:54:12,936 - Bid Data: {'Timestamp': Timestamp('2025-03-02 11:54:12.933139'), 'Price': '86134.61000000', 'Quantity': '0.51813000', 'Type': 'Bid'}
+2025-03-02 11:54:12,941 - Ask Data: {'Timestamp': Timestamp('2025-03-02 11:54:12.938222'), 'Price': '86134.62000000', 'Quantity': '3.76776000', 'Type': 'Ask'}
+2025-03-02 11:54:13,318 - WebSocket error: 
+2025-03-02 11:54:19,227 - Websocket connected
+2025-03-02 11:54:19,900 - Bid Data: {'Timestamp': Timestamp('2025-03-02 11:54:19.893329'), 'Price': '86134.61000000', 'Quantity': '1.23750000', 'Type': 'Bid'}
+2025-03-02 11:54:19,907 - Ask Data: {'Timestamp': Timestamp('2025-03-02 11:54:19.901237'), 'Price': '86134.62000000', 'Quantity': '2.92092000', 'Type': 'Ask'}
+2025-03-02 11:54:20,919 - Bid Data: {'Timestamp': Timestamp('2025-03-02 11:54:20.916758'), 'Price': '86134.61000000', 'Quantity': '1.80416000', 'Type': 'Bid'}
+2025-03-02 11:54:20,928 - Ask Data: {'Timestamp': Timestamp('2025-03-02 11:54:20.919878'), 'Price': '86134.62000000', 'Quantity': '3.08546000', 'Type': 'Ask'}
+2025-03-02 11:54:21,941 - Bid Data: {'Timestamp': Timestamp('2025-03-02 11:54:21.937856'), 'Price': '86134.80000000', 'Quantity': '3.35186000', 'Type': 'Bid'}
+2025-03-02 11:54:21,944 - Ask Data: {'Timestamp': Timestamp('2025-03-02 11:54:21.941676'), 'Price': '86134.81000000', 'Quantity': '0.37343000', 'Type': 'Ask'}
+2025-03-02 11:54:21,954 - WebSocket error: 
+2025-03-02 11:54:22,461 - tearing down on exception 
+2025-03-02 11:54:22,465 - tearing down on exception 
