@@ -28,7 +28,7 @@ You should run both servers in separate terminals, as they are two separate serv
 Terminal 1: Run Redis Server with the command redis-server.
 Terminal 2: Run ClickHouse Server with the command clickhouse-server start.
 
-
+python src/main.py --symbol1 AAPL --symbol2 MSFT --interval daily
 -----------------------------
 
 Tommorow tasks.

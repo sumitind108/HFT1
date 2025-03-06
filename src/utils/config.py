@@ -1,6 +1,7 @@
 # Store API keys and other settings
 
-ALPHA_VANTAGE_API_KEY = 'N71I17HICSY46PU3'
+# ALPHA_VANTAGE_API_KEY = 'N71I17HICSY46PU3'
+ALPHA_VANTAGE_API_KEY = 'Q0BQFAOGZBJGKB58'
 ZEBRA_KITE_API_KEY = 'your_zerodha_api_key'
 ZEBRA_KITE_ACCESS_TOKEN = 'your_zerodha_access_token'
 

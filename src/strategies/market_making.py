@@ -1,35 +1,55 @@
+import pandas as pd
+
+def generate_order_book_data():
+    """
+    Generate some simulated order book data for the market-making strategy.
+    For now, this function will generate random order book data.
+    """
+    # Simulated data (usually, this would come from an exchange or a real-time data source)
+    data = {
+        'Price': [100.1, 100.2, 100.3, 100.4, 100.5, 100.6, 100.7, 100.8],
+        'Quantity': [5, 10, 5, 8, 12, 7, 9, 6],
+    }
+
+    # Create DataFrame to represent order book
+    order_book_data = pd.DataFrame(data)
+
+    # Add a 'Type' column based on simple price logic
+    # For example, prices lower than the next one are 'Bid', higher are 'Ask'
+    order_book_data['Type'] = ['Bid' if order_book_data['Price'][i] < order_book_data['Price'][i+1] else 'Ask' 
+                               for i in range(len(order_book_data)-1)] + ['Ask']  # Last one is assumed to be 'Ask'
+
+    return order_book_data
+
+
 def trading_decision(order_book_data):
     """
     Trading decision logic based on market imbalance.
     """
-    if len(order_book_data) == 0:
+    if order_book_data.empty:
         print("No order book data available")
         return
 
-    # Check if the 'Type' column exists, if not, add it
+    required_columns = ['Price', 'Quantity']
+    missing_cols = [col for col in required_columns if col not in order_book_data.columns]
+    if missing_cols:
+        print(f"Missing required columns: {', '.join(missing_cols)}")
+        return
+
+    # Set 'Type' column if it doesn't exist
     if 'Type' not in order_book_data.columns:
-        # Assuming 'order_book_data' consists of both bid and ask, add 'Type' to differentiate
-        order_book_data['Type'] = ['Bid'] * len(order_book_data) if order_book_data.iloc[0]['Price'] < order_book_data.iloc[1]['Price'] else ['Ask'] * len(order_book_data)
-    
-    # Get the latest bid and ask data
+        order_book_data['Type'] = ['Bid' if order_book_data.iloc[i]['Price'] < order_book_data.iloc[i+1]['Price'] else 'Ask' for i in range(len(order_book_data)-1)]
+
+    # Calculate imbalance and decision logic
+    total_bid_qty = order_book_data[order_book_data['Type'] == 'Bid']['Quantity'].sum()
+    total_ask_qty = order_book_data[order_book_data['Type'] == 'Ask']['Quantity'].sum()
+
+    imbalance = total_bid_qty / (total_bid_qty + total_ask_qty)
     latest_bid = order_book_data[order_book_data['Type'] == 'Bid'].iloc[-1]
     latest_ask = order_book_data[order_book_data['Type'] == 'Ask'].iloc[-1]
 
-    bid_price = float(latest_bid['Price'])
-    ask_price = float(latest_ask['Price'])
-    bid_quantity = float(latest_bid['Quantity'])
-    ask_quantity = float(latest_ask['Quantity'])
-
-    # Calculate imbalance
-    total_bid_qty = order_book_data[order_book_data['Type'] == 'Bid']['Quantity'].sum()
-    total_ask_qty = order_book_data[order_book_data['Type'] == 'Ask']['Quantity'].sum()
-    
-    imbalance = total_bid_qty / (total_bid_qty + total_ask_qty)
-    
-    if imbalance > 0.7:  # Buy condition (Bid side stronger)
-        print(f"Imbalance is {imbalance}, consider buying at {ask_price}")
-        # Simulate Buy (you can integrate with API for real trades)
-    elif imbalance < 0.3:  # Sell condition (Ask side stronger)
-        print(f"Imbalance is {imbalance}, consider selling at {bid_price}")
-        # Simulate Sell (you can integrate with API for real trades)
-
+    # Trading Decision
+    if imbalance > 0.7:  # Buy condition
+        print(f"Imbalance is {imbalance}, consider buying at {latest_ask['Price']}")
+    elif imbalance < 0.3:  # Sell condition
+        print(f"Imbalance is {imbalance}, consider selling at {latest_bid['Price']}")
